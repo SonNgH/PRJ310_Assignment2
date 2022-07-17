@@ -18,7 +18,7 @@ import model.Instructor;
  *
  * @author hongs
  */
-public class Login extends HttpServlet {
+public class login extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
